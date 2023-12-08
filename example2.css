@@ -1,0 +1,8 @@
+header,main,footer{
+
+border: 5px solid black;
+margin: 10px;
+}
+main{ text-align: center;}
+footer{ text-align: right;}
+header{ padding: 10px;}
